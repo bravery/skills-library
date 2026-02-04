@@ -1,0 +1,14 @@
+# opencode.json - 配置文件
+opencode.json
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 性能优化：确保忽略本地配置文件，便于团队协作
