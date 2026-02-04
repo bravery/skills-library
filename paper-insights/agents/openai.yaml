@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Insights"
+  short_description: "Summarize and critique long AI research papers"
+  default_prompt: "Analyze this AI paper PDF and produce a structured summary with contributions, methods, experiments, limitations, and reproduction notes."
